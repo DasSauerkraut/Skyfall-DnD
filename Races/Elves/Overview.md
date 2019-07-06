@@ -1,1 +1,3 @@
-a
+# Elves
+## Physical Appearance 
+- The first and most striking of features of the elves is their four arms. They have six limbs in total, with two for waking. Their feet a dexterous, but not enough for tool use. Elves have only three finger on each hand, and their hands take after the graspers of chameleons. Each hand and foot has large claws at the end of each digit. To that end, an elf is never truly disarmed. They have scaly, snakelike skin and a ridged back. Their face is also lizardlike, with a pointed snout and "integrated" nose. They possess limited color changing ability, used to convey emotions more than blend in. Elves have excellent arboreal mobility, and are able to keep up with all but the fastest in the trees. These extreme adaptations have come at a cost, they are ungainly on flat land and are barely considered sentient due to their lack of intelligence.
