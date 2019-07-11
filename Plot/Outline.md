@@ -1,11 +1,11 @@
-#Overarching Plot
+# Overarching Plot
 - Illiandinn is planning a large push against the Eladin.
 - He lacks the manpower, so he plans to suppliment his forces by accruing magical artifacts.
 - He will get numerous regardless of player action
 - Player Relevant, Illiandinn has recruited the elves to besiege and conquire Hiri as the Jainko have an incredibly power creator shard(roughly 1/16th)
 - The elven siege will occur during the players stay.
 - Win or lose, the shard is stolen and brought across the mountains towards Cielo Tocatto by rouge Darnau.
-End Act 1
+## End Act 1
 - The Dwarves break through into an abandoned city that procides the fastest route through the mountains.
 
 # Act 1
