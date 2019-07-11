@@ -1,4 +1,15 @@
+#Overarching Plot
+- Illiandinn is planning a large push against the Eladin.
+- He lacks the manpower, so he plans to suppliment his forces by accruing magical artifacts.
+- He will get numerous regardless of player action
+- Player Relevant, Illiandinn has recruited the elves to besiege and conquire Hiri as the Jainko have an incredibly power creator shard(roughly 1/16th)
+- The elven siege will occur during the players stay.
+- Win or lose, the shard is stolen and brought across the mountains towards Cielo Tocatto by rouge Darnau.
+End Act 1
+- The Dwarves break through into an abandoned city that procides the fastest route through the mountains.
+
 # Act 1
+## Overview
 ## Session 1
 - players arrive at Diavolo Cadere
 - wander town for short while
@@ -17,8 +28,10 @@
 - after this the players might do anything but will probably go talk to the distraught villagers to get directions, they will tell them to go West
 - if they don't, once they get moving they'll eventually run into a traveler who'll point them in the right direction for a cost.
 - They'll wander for a bit
-- **FIGHT** They run into a cluster of Shards **LINK TO ENCOUNTER**
+- **FIGHT** They run into a cluster of Shards mutilating a Jainkovian runner.
+- After the shards are dealt with, amongst the loot, theyll find three damaged documents, a heavily damaged ID paper, orders for the expeditionary force he originated
+from, and a report from a scout claiming a large party of elves is coming from the south. 
 ## Session 2
-- fug
+- High Concept: Political
 # Act 2
 # Act 3
