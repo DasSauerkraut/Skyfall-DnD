@@ -1,0 +1,13 @@
+- Isilik
+- Azkar
+- Astiro 
+- Leialtasunez
+- Pazientziaz
+- Basatiki
+- Ahaleginik
+- Irrikitan
+- Lehiakortasunez
+- Magikoki
+- Espiritualki
+- Biziko
+- Arretaz
