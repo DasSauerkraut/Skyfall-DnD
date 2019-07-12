@@ -1,0 +1,17 @@
+- Lerba Cresce
+- Montagna Caduta
+- Piscina Nuoto
+- Cavallo Passeggiata
+- Sole Luce
+- Fogliare Ombra
+- Ilvento Soffia 
+- Spada Oscillazione
+- Dio Brando 
+- D'oro Lucentezza
+- Sindaco Piombo
+- Uomo Orologio
+- Uso Magico
+- Pugno Lopunzone
+- Macchiato D'Inchiostro
+- Libro Letto
+- Matrice Vuota
